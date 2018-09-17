@@ -1,0 +1,42 @@
+_repo: The-Scott-Country_52345
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Haslehust, E. W.
+    aliases:
+    - Haslehust, Ernest William
+    - Haslehurst, E. W.
+    - Haslehurst, Ernest William
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '26576'
+    url: http://www.gutenberg.org/2009/agents/26576
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_William_Haslehust
+creator:
+  author:
+    agent_name: Geddie, John
+    birthdate: 1848
+    deathdate: 1937
+    gutenberg_agent_id: '34101'
+    url: http://www.gutenberg.org/2009/agents/34101
+    wikipedia: https://en.wikipedia.org/wiki/John_Geddie_%28journalist%29
+description: ''
+gutenberg_issued: '2016-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beautiful Scotland
+subjects:
+- !lcsh 'Authors, Scottish -- Homes and haunts -- Scotland -- Scottish Borders'
+- !lcsh 'Scottish Borders (Scotland) -- Intellectual life'
+- !lcsh 'Scottish Borders (Scotland) -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'Scott, Walter, 1771-1832 -- Homes and haunts -- Scotland -- Scottish Borders'
+- !lcsh 'Literary landmarks -- Scotland -- Scottish Borders'
+- GITenberg
+title: The Scott Country
+url: http://www.gutenberg.org/ebooks/52345
