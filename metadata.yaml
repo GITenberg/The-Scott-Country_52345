@@ -1,5 +1,5 @@
 _repo: The-Scott-Country_52345
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Haslehust, E. W.
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '26576'
     url: http://www.gutenberg.org/2009/agents/26576
     wikipedia: https://en.wikipedia.org/wiki/Ernest_William_Haslehust
+covers:
+- cover_type: archival
+  image_path: 52345-h/images/cover.jpg
 creator:
   author:
     agent_name: Geddie, John
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34101
     wikipedia: https://en.wikipedia.org/wiki/John_Geddie_%28journalist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52345#The-Scott-Country
 gutenberg_issued: '2016-06-15'
 gutenberg_type: Text
 identifiers:
